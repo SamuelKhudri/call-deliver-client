@@ -1,0 +1,56 @@
+[
+    {
+        "servicename": "Indian Biriyani",
+        "image": "https://i.postimg.cc/nsTQw3cK/tomato-rice.png",
+        "summery": "We have the best Indian Biriyani with great Taste.You can Order now",
+        "duration": "30-minute",
+        "item": "1 package with basmati rice, Beef meat, low fry",
+        "origin": "India",
+        "cost": "500 RS"
+    },
+    {
+        "servicename": "Meat Butter",
+        "image": "https://i.postimg.cc/21QWnzsK/pav-bhaji.png",
+        "summery": "We have the best Meat Butter with great Taste.You can Order now",
+        "duration": "30-minute",
+        "item": "1 package with chese butter, Beef meat, low fry",
+        "origin": "India",
+        "cost": "800 RS"
+    },
+    {
+        "servicename": "Pizza Bread",
+        "image": "https://i.postimg.cc/dLzR8NLL/chenna-poda.png",
+        "summery": "We have the best Pizza Bread with great Taste.You can Order now",
+        "duration": "30-minute",
+        "item": "1 package with unique item, Beef meat, low fry",
+        "origin": "India",
+        "cost": "800 RS"
+    },
+    {
+        "servicename": "Fried Rice",
+        "image": "https://i.postimg.cc/9Rnwcz9r/tsr.png",
+        "summery": "We have the best Fried Rice with great Taste.You can Order now",
+        "duration": "30-minute",
+        "item": "1 package with basmati rice, Beef meat, low fry",
+        "origin": "India",
+        "cost": "350 RS"
+    },
+    {
+        "servicename": "kacchie Biriyani",
+        "image": "https://thumbs.dreamstime.com/z/food-closeup-view-famous-traditional-kacchi-biryani-potato-food-closeup-view-famous-traditional-kacchi-biryani-potato-222440994.jpg",
+        "summery": "We have the best Kachie Biriyani with great Taste.You can Order now",
+        "duration": "30-minute",
+        "item": "1 package with basmati rice, Beef meat, potatoes",
+        "origin": "India",
+        "cost": "400 RS per check-up"
+    },
+    {
+        "servicename": "Fish Fry",
+        "image": "https://thumbs.dreamstime.com/z/fish-fry-14876802.jpg",
+        "summery": "We have the best fish Biriyani with great Taste.You can Order now",
+        "duration": "30-minute",
+        "item": "1 package with Hilsha fish, butter, low fry",
+        "origin": "India",
+        "cost": "500 RS"
+    }
+]

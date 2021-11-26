@@ -1,0 +1,17 @@
+.form-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+   
+}
+.login-form{
+    background-color: #91c8f0b2;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px;
+}
+#text{
+    text-align: start !important;
+    padding-left: 10px !important;
+}

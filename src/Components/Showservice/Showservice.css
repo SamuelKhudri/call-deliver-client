@@ -1,0 +1,11 @@
+.user-image{
+    border-radius: 50% !important;
+    padding: 50px;
+    height: 354px;
+}
+.card{
+    background-color: #eb56a1c5;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px;
+    margin-bottom: 10px !important;
+}

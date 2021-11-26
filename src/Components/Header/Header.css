@@ -1,0 +1,33 @@
+#mar-btn{
+    margin-right: 2px !important;
+}
+.logo{
+    text-align: center;
+}
+#logo-img{
+    height: 80px;
+    margin-left: 5px;
+}
+/* logo style completed */
+
+/* Nav bar text */
+#navLi{
+    color: #210fc0a8 !important;
+    font-weight: 1000 !important;
+}
+.btn-out {
+    padding: 6px 10px !important;
+    margin: 17px !important;
+    border: 2px solid white !important;
+    background-color: brown !important;
+    color: white !important;
+    font-size: 1rem !important;
+    border-radius: 15px !important;
+    cursor: pointer !important;
+  }
+  .btn-out:hover {
+    color: black !important;
+    background-color: white !important;
+  }
+
+

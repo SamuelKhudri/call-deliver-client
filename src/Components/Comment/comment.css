@@ -1,0 +1,23 @@
+#btn {
+    padding: 6px 20px !important;
+    margin: 17px !important;
+    border: 2px solid white !important;
+    background-color: brown !important;
+    color: white !important;
+    font-size: 1.5rem !important;
+    border-radius: 16px !important;
+    cursor: pointer !important;
+  }
+  #btn:hover {
+    color: black !important;
+    background-color: white !important;
+  }
+  .card-body{
+      color: black !important;
+  }
+  #header{
+    color: white !important;
+  }
+  #contmar{
+      margin-top: 100px !important;
+  }
